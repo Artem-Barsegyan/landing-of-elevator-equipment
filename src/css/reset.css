@@ -120,15 +120,6 @@ textarea:focus-visible {
     font-size: 18px;
 }
 
-/* .btn:hover {
-    background-color: #EE753E;
-    transition: 0.3s;
-}
-
-.btn:active {
-    background-color: #D45A28;
-} */
-
 .btn:disabled {
     background-color: #272A33;
     opacity: 0.2;

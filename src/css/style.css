@@ -12,15 +12,6 @@
     column-gap: 80px;
 }
 
-/* .menu-list li:hover {
-    color: #EE753E;
-    transition: 0.3s;
-} */
-
-/* .menu-list li:active {
-    color: #D45A28;
-} */
-
 .burger-btn {
     display: none;
     flex-direction: column;
@@ -195,10 +186,12 @@
 
 .btn:active {
     background-color: #D45A28;
+    transition: 0.1s;
 }
 
 .menu-list li:active {
     color: #D45A28;
+    transition: 0.1s;
 }
 
 @media (hover: hover) {
