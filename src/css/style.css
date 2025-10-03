@@ -12,14 +12,14 @@
     column-gap: 80px;
 }
 
-.menu-list li:hover {
+/* .menu-list li:hover {
     color: #EE753E;
     transition: 0.3s;
-}
+} */
 
-.menu-list li:active {
+/* .menu-list li:active {
     color: #D45A28;
-}
+} */
 
 .burger-btn {
     display: none;
@@ -191,6 +191,26 @@
     display: flex;
     align-items: center;
     gap: 15px;
+}
+
+.btn:active {
+    background-color: #D45A28;
+}
+
+.menu-list li:active {
+    color: #D45A28;
+}
+
+@media (hover: hover) {
+    .btn:hover {
+        background-color: #EE753E;
+        transition: 0.3s;
+    }
+
+    .menu-list li:hover {
+        color: #EE753E;
+        transition: 0.3s;
+    }
 }
 
 @media screen and (max-width: 1470px) {
