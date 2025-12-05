@@ -1,4 +1,4 @@
-[🌐 **Рабочая версия**](https://landing-of-elevator-equipment.vercel.app/)
+[🌐 **Рабочая версия**](https://spartspro.vercel.app/)
 
 # **Адаптивная верстка для SPARTSPRO**
 
